@@ -1,0 +1,21 @@
+Menu
+	Needs overhaul:
+		Currently menu is implemented as a series of modal dialogs,
+		this makes it difficult to mouse over in menu bar to show a new menu
+	Action needs to be taken after dismissing menu.
+	Need support for menu keys, and allow for '&' to select key.
+	Allow for disabled menu items.
+	Allow for separator.
+	
+Create dynamic menu to show current windows
+
+Window
+	Change order
+		Bring to top.
+		Move and uncover (ie invalidate) other windows.
+		
+Buttons
+
+Shadow on windows
+	
+Closing by 'X' causes Ctrl+C ???
