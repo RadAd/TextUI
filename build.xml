@@ -2,6 +2,7 @@
 
     <property name="project.displayname"  value="Text UI"/>
     <property name="project.version"      value="1.0"/>
+    <property name="project.dep"          value="../RadConsole"/>
     
     <import file="radjava/radjava.xml"/>
     
